@@ -3,7 +3,7 @@ title: FortyFive
 subtitle: Digital
 email: hello@fortyfivedigital.com
 description: Website Creation Specialists.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
